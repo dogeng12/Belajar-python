@@ -1,4 +1,5 @@
-#ini adalah fungsi kalkulator biasa!
+ini adalah fungsi kalkulator biasa!
+
 def kalkulator(op, num1,num2):
         if op == "+":
             return num1 + num2
