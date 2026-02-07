@@ -1,3 +1,7 @@
+#saya pengen minum kopi, pas sekali saya melihat ada kopi di meja 2 SASET.
+#gimana cara saya implementasikan ke komputer supaya dia paham instruksi dari saya? oke saya akan coba!
+
+
 import time
 kopi = 1
 dapur = False
